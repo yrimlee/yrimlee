@@ -1,3 +1,4 @@
+<br/><br/>
 ### 개발자 취업을 원하는 이예림입니다.👼
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
@@ -13,7 +14,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/><br />
+<br/><br/><br/>
 
 🖥️languages and tools🖥️
 
